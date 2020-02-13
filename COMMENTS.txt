@@ -1,0 +1,15 @@
+Boa tarde!
+
+Não consegui concluir o código pedido no desafio. 
+Gastei a maior parte do tempo, para não dizer o tempo todo, tentando configurar os componentes no meu visual studio,
+incluindo o sdk do android.
+
+O item 1, tem a seguinte descritiva:
+" A lista, deverá conter registros com o nome da cidade, o clima e a temperatura. "
+Porém, não encontrei no json essas informações para serem colocadas, por isso não coloquei.
+
+Poderia melhorar e criar muitas outras coisas, caso tivesse mais tempo.
+Uma das coisas, seria a leitura do Json. Por falta de tempo para pesquisar, acabei colocando ele no código.
+Poderia ter consumido a URL informada, mas não tive tempo, entre outros.
+
+No mais, agradeço pela oportunidade, e peço desculpas pelo código.
